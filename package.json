@@ -1,0 +1,15 @@
+{
+  "name": "abstract-copy-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ncheikh/abstract-copy-extractor.git",
+  "author": "Nabil Cheikh <ncheikh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "abstract-sdk": "^8.0.0-beta.16",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "ora": "^4.0.3",
+    "table": "^5.4.6"
+  }
+}
